@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "maternavirtualsolutiontask",
+  "private_key_id": "145f97804f09e6c352d3327e9dbd59039cf846e9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDV4B+XJvUNiQdn\ngKgJclfgvI1bFTPE/xRQ86hEefcCB/yS52nwhY5jEx5zyyJriOKVQVk6cwqaaiam\n+tHoaSQUVoEoV0f1DcKzG0cnMWCaEoF4CuVDkukH/Y6FKLrjJZeDD5KGVWz22M6J\n3dVI40GqEcYpiZHyILiqXJlDM6X2ZsCUKS6TJIrvhGNSIqey60mumyzPOmnWin67\nx5FSkKg8Ay8pJz94zT1HDjN2sX6+9/pCwASIv9Iogbhzm1pSb7E7OsehLpOI7U2g\n3n5J6cNGqjn49W1htInovjT4UnzJK7STB8M5LtnHONHrPjhkiNCK2/idPPUjfFbr\n1uIlbhgPAgMBAAECggEAUOCrMY6i1pZ9/U7yvHfH8Y176viulg1b0m0BsbtphBQf\nGDJ4pmLrAF5HgsRLZNzjyktnAaplVRVVPonU/Q1dfm9j8ixnYqzsdqyXEKQkgr8C\nxLFiF1aj1si0r3hCjAk4LXCjGTeOuB4upIYF1MVTnIuSIz0JusVS7+GKd5Y9aVqq\nVrWYLLLhesE5goGyTAfd4pRGewqL4ycc3dMz/Xp20lkgkmVnaLm6IKirR8y6l6vx\nPDAlAbSQ7L8tsyjyhNP38gaaLq5VbI17H21Y999JvpVxuKS9EXi/kNOnR88PntNe\n28VirAQxJq4yNUmWN+Ko8UhOgd3kLgluZ6wNQCRWqQKBgQD+tL295eTv7O80uIMF\nOYsrYTHnERWGp7q9XPyAYRpkCfURcDAcNFKA9uuHwiZ3Fsox+x2OUZ79RhkdyIlG\nmZZtngA18KshuVg60GOhQcwFVxWQwQ7TSvtZl5bEQ/Z67QpbYsiFtO6CZmmbW2Xi\nHnTgpa+6VAWwgGLsStv7kcGHHQKBgQDW9keozhtGNRPCS969l6EdDEKo153jy6BK\nVPgQaMu9wcWyF6W2B6159i0v26v3lxaKpDHd0CVcG1WVKLbEImRi5xx3YH6b9QH2\nOQrQQGum9sny1kKUh3vfGWm22TZMsGpMurv6CgLzTkOb4WunRilqC0bAWvVIIRgc\nRFbGBAi4GwKBgFL9vV1kzQXII+D/xeEr8Ma/sqzhiiwH9vbAl52VBi5WeD2oWmS2\nP7O5wODJSBNBn7xNYEIBIlbQQlrL/r68SKGK+/KXaotggvkW8X+XmsyapXI3FYeP\nRPraQ8vLgUJofhlsxH2ciKKAkCSI0VeuKNMR6YJC4l+yVYk8kxUTVwWZAoGBAJjl\nziykhUPXxvkhbApgyslViih8TSLVGGsmqtdJIvoS1OKK7WRfa6XfU17CGjxebDsq\n9Qk33wr3qlURA4bYi5zJlDbZHNUjXUTcZ/OejrPQv+4JNoxdHd+fPNFBCN1dcg6n\nl8MO0fBrj61VlnQBdL2nzahOSj8GwxaACVSJVAZXAoGBAJFd0DS7KkGflooI2QTA\nrxlKMORvBzNSoKWmcKMyVaOB720b5N8FqgROsuxuNvG0eTjeFycIME080CDNj7Iy\n23B3FBszmwJAfkrUs3ZNcifWa4xkgKV10rTpdFGMoch14w2hacQGqKeBt9upbY2s\nOEabfXS0yEb5Gk0/8yG+oheF\n-----END PRIVATE KEY-----\n",
+  "client_email": "maternavirtualsolutiontask@maternavirtualsolutiontask.iam.gserviceaccount.com",
+  "client_id": "115981459788318362317",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/maternavirtualsolutiontask%40maternavirtualsolutiontask.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

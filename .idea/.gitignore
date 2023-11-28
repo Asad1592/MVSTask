@@ -1,0 +1,116 @@
+# Compiled class files
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Maven #
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# avoid accidental check-in of NavigationPage.xhtml
+NavigationPage.xhtml
+
+# Avoid on Windows:
+# Files and folders used by the OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Folder view settings
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# IntelliJ IDEA #
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Eclipse #
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.classpath
+.settings/
+.springBeans
+
+# STS #
+*.launch
+
+# CodeKit #
+config.codekit*
+.codekit-cache/
+
+# Logs #
+*.log
+
+# OS generated files #
+.DS_Store*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Icon?
+._*
+
+# Thumbnails
+*.thumb
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk

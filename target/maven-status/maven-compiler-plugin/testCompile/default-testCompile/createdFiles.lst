@@ -1,0 +1,9 @@
+com\MVSTask\headerinfo\component\EmailFormTest$DummyPage.class
+com\MVSTask\headerinfo\component\HeaderInfoDisplayTest.class
+com\MVSTask\headerinfo\component\EmailFormTest.class
+com\MVSTask\headerinfo\service\HeaderInfoServiceTest.class
+com\MVSTask\headerinfo\service\EmailServiceTest.class
+com\MVSTask\headerinfo\page\HomePageTest.class
+com\MVSTask\headerinfo\util\EmailValidatorTest.class
+com\MVSTask\headerinfo\page\BasePageTest.class
+com\MVSTask\headerinfo\application\HeaderInfoApplicationTest.class
